@@ -5,16 +5,8 @@ This PowerShell script provides real-time monitoring of system performance, reso
 ## Features
 
 - **Performance Monitoring:**
-  - Real-time tracking of CPU usage, memory utilization, and disk activity.
-
+  
 - **Resource Utilization:**
-  - Monitor system resources to identify bottlenecks and optimize performance.
-
-- **Event Logging:**
-  - Capture important system events and log them for analysis.
-
-- **Customizable Alerts:**
-  - Set up customizable alerts based on performance thresholds.
 
 ## Prerequisites
 
@@ -31,7 +23,13 @@ This PowerShell script provides real-time monitoring of system performance, reso
    ```powershell
    .\SystemMonitoring.ps1
 
+** Using the System Monitor on the Windows Server 2022 VM 
 
+![System Monitor](https://github.com/EliasMo/Sysmonitor-PS/assets/45215421/c5abe9d3-6447-4c00-82c4-bb5caeea6907)
+
+
+** Conclusion 
+This project has helped me understand how processes and more about the Windows System, this project was basic and in the future i will definitely create something that will be useful in real-time. 
 
 
 
