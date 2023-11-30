@@ -28,7 +28,7 @@ This PowerShell script provides real-time monitoring of system performance, reso
 ![System Monitor 2](https://github.com/EliasMo/Sysmonitor-PS/assets/45215421/b006bb74-4b8f-4f98-aef4-fbf13972b81c)
 
 ## Conclusion 
-This project has helped me understand how processes and more about the Windows System, this project was basic and in the future i will definitely create something that will be useful in real-time. 
+This project has helped me understand more about Windows system processes. While this project was basic, I plan to create something more advanced and useful in real-time in the future
 
 
 
